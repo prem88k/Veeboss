@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "230169537255",
+    "project_id": "veeboss-234c7",
+    "storage_bucket": "veeboss-234c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230169537255:android:6001ab6d8d9e6180135042",
+        "android_client_info": {
+          "package_name": "com.app.veeboss.veeboss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230169537255-uof7kmohrtrjdshvfunoh0jhrjnscqkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.veeboss.veeboss",
+            "certificate_hash": "1005ca7ff78a64123caeee6dd865a220ddce0780"
+          }
+        },
+        {
+          "client_id": "230169537255-nrkat5h67o427e5vj034dv67c2ek8rbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwIGFhNnIQOFHhgdUolgWmlrsxNHwQ5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230169537255-nrkat5h67o427e5vj034dv67c2ek8rbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

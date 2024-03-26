@@ -1,0 +1,1 @@
+const apiBaseUrl = "yourang.shop";
